@@ -2,9 +2,11 @@
   <div class="home">
     <!-- <img alt="Vue logo" src="../assets/logo.png" /> -->
     <Steps />
+
     <Title />
-     <Type />
+    <Type />
     <Pitch />
+
 
     <div class="projets" v-for="entreprise in entreprises" :key="entreprise.id">
       <!-- <div v-if="entreprise.firstPage" > -->
