@@ -2,7 +2,8 @@
   <div class="about">
     <Pitch></Pitch>
     <h2>cette page contient des explications plus détaillées destinées aux investisseurs</h2>
-  </Colaps>
+   <Colaps></Colaps>
+  
   </div>
 </template>
 
