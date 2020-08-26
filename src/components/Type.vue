@@ -7,25 +7,25 @@
           <li id="step-1">
             <img src="@/assets/images/techenologie.svg"  alt="techno"  class="img"/>
             <h4>Techenologie</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            <p>Lancer un projet innovant nécessite de réunir des moyens matériels et humains qui doivent être financés aux différents stades de son évolution.
             </p>
           </li>
           <li id="step-1">
             <img src="@/assets/images/social.svg"  alt="social"  class="img"/>
             <h4>Social</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            <p>les projets sociaux permet d'encourager l’esprit collaboratif, en redistribuant les richesses,Travaillé et agir pour le bien commun.
             </p>
           </li>
           <li id="step-2">
             <img src="@/assets/images/echologie.svg" alt="Echologie" class="img" />
             <h4>Echologie</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            <p>développer des biens et services dont la vocation est de contribuer à la protection et à la valorisation de l'environnement.
             </p>
           </li>
           <li id="step-3">
             <img src="@/assets/images/education.svg" alt="Educatif"  class="img"/>
             <h4>Educatif</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+            <p>les projets educatifs sont indisponsable pour le meilleur divellopement humains sur le plan de la recherche et de la création.
             </p>
           </li>
         </ul>
@@ -72,6 +72,10 @@ margin-bottom: 20px;
 }
 #lessteps p{
 margin-bottom: 20px;
+}
+p{
+  font-size: 1em;
+  font-style: italic;
 }
 
 </style>
